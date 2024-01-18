@@ -1,4 +1,4 @@
-// Iniciar una variable con un valor
+/* // Iniciar una variable con un valor
 var producto = "Monitor de 24 pulgadas";
 console.log(producto);
 
@@ -31,3 +31,4 @@ var user_year = 1992;
 // Pascal
 var FirstName = 'Richard';
 
+ */
