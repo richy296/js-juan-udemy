@@ -1,8 +1,8 @@
-const producto = 'Monitor 20 Pulgadas';
+/* const producto = 'Monitor 20 Pulgadas'; */
 /* console.log(producto);
 console.log(producto.length);
  */
-console.log(producto.indexOf('Pulgadas'));
+/* console.log(producto.indexOf('Pulgadas'));
 
 console.time('loop');
 if (producto.indexOf('play') >= 0) {
@@ -19,3 +19,4 @@ if (producto.includes('Pulgadas')) {
     console.log('No existe el producto');
 }
 console.timeEnd('loop');
+ */
